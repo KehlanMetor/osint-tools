@@ -29,9 +29,6 @@
 * [tools exemples](#-tools-exemples)
 * [webUI pentest tools](#-WebUI-pentest-multitools)
 * [multi strong and advanced tools](#-multi-strong-and-advanced-tools)
-* [sniffer](#-sniffer)
-* [sql injection](#-sql-injection)
-* [Vulnerability exploitation framework](#-Vulnerability-exploitation-framework)
 
 ## 🚀 Tools
 ### NOTE : I used all the tools and its my rating. If I said something was not good doesn't mean you can't use it.
@@ -51,8 +48,8 @@
 ## 🌐 WebUI osint multitools
 
 ## 💪 multi strong and advanced tools
-[Maltego (paid and free plan](https://www.maltego.com)
-[Metasploit (wonderful for pentest and osint](https://www.metasploit.com)
+[Maltego (paid and free plan](https://www.maltego.com) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[Metasploit (wonderful for pentest and osint](https://www.metasploit.com) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 <details><summary>Click here for free bobux</summary>
 <p>
