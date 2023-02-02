@@ -41,8 +41,16 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 ## 🧨 tools list
 [Osint Framework (Recommended)](https://osintframework.com) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Every os
 
+[Osint Stuff Tool (Huge Packs)](https://github.com/cipher387/osint_stuff_tool_collection) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
+
+[Awesome Osint (Well Made)](https://github.com/jivoi/awesome-osint) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
+
 ## 🎇 github tools
 [OsintGram (really good, works with console)](https://github.com/Datalux/Osintgram) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
+
+[TheHarvester (popular)](https://github.com/laramies/theHarvester) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
+
+[Photon (popular, well made)](https://github.com/s0md3v/Photon) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Every os
 
 ## 💻 osint search engine
 [Shodan (interestingly good)](https://www.shodan.io) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Every os
