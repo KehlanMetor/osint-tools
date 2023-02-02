@@ -21,7 +21,6 @@
 > 🚧 **This project can be updated!** 🚧 Use it anyway I already put enough :)
 
 <details><summary>📚 Table of contents</summary>
-<p>
 * [Tools](#-Tools)
 * [learning](#-learning)
 * [tools list](#-tools-list)
@@ -30,7 +29,6 @@
 * [tools exemples](#-tools-exemples)
 * [webUI pentest tools](#-WebUI-pentest-multitools)
 * [multi strong and advanced tools](#-multi-strong-and-advanced-tools)
-</p>
 </details>
 
 ## 🚀 Tools
