@@ -21,14 +21,16 @@
 > 🚧 **This project can be updated!** 🚧 Use it anyway I already put enough :)
 
 <details><summary>📚 Table of contents</summary>
-* [Tools](#-Tools)
-* [learning](#-learning)
-* [tools list](#-tools-list)
-* [github tools](#-github-tools)
-* [osint search engine](#-osint-search-engine)
-* [tools exemples](#-tools-exemples)
-* [webUI pentest tools](#-WebUI-pentest-multitools)
-* [multi strong and advanced tools](#-multi-strong-and-advanced-tools)
+
+   * [Tools](#-Tools)
+   * [learning](#-learning)
+   * [tools list](#-tools-list)
+   * [github tools](#-github-tools)
+   * [osint search engine](#-osint-search-engine)
+   * [tools exemples](#-tools-exemples)
+   * [webUI pentest tools](#-WebUI-pentest-multitools)
+   * [multi strong and advanced tools](#-multi-strong-and-advanced-tools)
+   
 </details>
 
 ## 🚀 Tools
