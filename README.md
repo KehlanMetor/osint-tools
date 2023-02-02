@@ -48,7 +48,7 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 ## 🎇 github tools
 [OsintGram (really good, works with console)](https://github.com/Datalux/Osintgram) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
 
-[TheHarvester (popular)](https://github.com/laramies/theHarvester) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
+[TheHarvester (popular)](https://github.com/laramies/theHarvester) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Every os
 
 [Photon (popular, well made)](https://github.com/s0md3v/Photon) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Every os
 
