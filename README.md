@@ -20,7 +20,7 @@
 
 > 🚧 **This project can be updated!** 🚧 Use it anyway I already put enough :)
 
-<details><summary>📚 Table of contents</summary>
+## <details><summary>📚 Table of contents</summary>
 
    * [Tools](#-Tools)
    * [learning](#-learning)
