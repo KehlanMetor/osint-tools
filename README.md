@@ -1,4 +1,4 @@
-# 🎈 Free Pentest Tools 🎈
+# 🔎 Free Osint Tools 🔎
 ![pingu image](https://cdn.discordapp.com/avatars/1009216298586210425/4d6853dc4bc1cbd02ca440ce3292a062.png)
 
 **Made for everyone by Pingu Telecom 🐧**
@@ -6,13 +6,13 @@
 | Features                                                                              | Status    |
 |---------------------------------------------------------------------------------------|-----------|
 | learning                                                                              | ✅        |
-| Pentesting                                                                            | ✅         |
+| Open Source Intelligence                                                              | ✅         |
 | Multi tools                                                                           | ✅         |
 | Compatible Windows, MacOS and Linux OSes                                              | ✅         |
 | Open source                                                                           | ✅(not all)|
 | For Beginners, advanced and experts                                                   | ✅(depends)|
 | Paid Tools                                                                            | ❌         |
-| Osint Tools                                                                           | ❌         |
+| Pentest Tools                                                                         | ❌ (maybe for multitools|
 
 - ✅ = `Integrated`
 - ❌ = `Not Integrated`
