@@ -1,9 +1,6 @@
 # 🔎 Free Osint Tools 🔎
 ![osint](https://owlysec.com/wp-content/uploads/2020/02/OSINT.jpg)
 
-
-![pingu image](https://cdn.discordapp.com/avatars/1009216298586210425/4d6853dc4bc1cbd02ca440ce3292a062.png) **Made for everyone by Pingu Telecom 🐧**
-
 | Features                                                                              | Status    |
 |---------------------------------------------------------------------------------------|-----------|
 | learning                                                                              | ✅        |
@@ -20,8 +17,6 @@
 - 🔄 = `For Some`
 
 > 🚧 **This project can be updated!** 🚧 Use it anyway I already put enough :)
-
-
 
 <details> <summary>📚 Table of contents</summary>
 
