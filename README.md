@@ -1,8 +1,8 @@
 # 🔎 Free Osint Tools 🔎
-![osint](https://onehack.us/uploads/default/original/3X/1/1/110ea3d04e84eddf6c9be9968a547ea7d3cf16c2.jpeg)
-![pingu image](https://cdn.discordapp.com/avatars/1009216298586210425/4d6853dc4bc1cbd02ca440ce3292a062.png)
+![osint](https://owlysec.com/wp-content/uploads/2020/02/OSINT.jpg)
 
-**Made for everyone by Pingu Telecom 🐧**
+
+![pingu image](https://cdn.discordapp.com/avatars/1009216298586210425/4d6853dc4bc1cbd02ca440ce3292a062.png) **Made for everyone by Pingu Telecom 🐧**
 
 | Features                                                                              | Status    |
 |---------------------------------------------------------------------------------------|-----------|
