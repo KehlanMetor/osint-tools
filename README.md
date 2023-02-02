@@ -1,5 +1,5 @@
 # 🔎 Free Osint Tools 🔎
-![osint](https://www.liferaftinc.com/hubfs/blog-assets/top-osint-tools/top-osint-tools-feature.jpg)
+![osint](https://onehack.us/uploads/default/original/3X/1/1/110ea3d04e84eddf6c9be9968a547ea7d3cf16c2.jpeg)
 ![pingu image](https://cdn.discordapp.com/avatars/1009216298586210425/4d6853dc4bc1cbd02ca440ce3292a062.png)
 
 **Made for everyone by Pingu Telecom 🐧**
