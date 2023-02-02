@@ -12,7 +12,7 @@
 | Open source                                                                           | ✅(not all)|
 | For Beginners, advanced and experts                                                   | ✅(depends)|
 | Paid Tools                                                                            | ❌         |
-| Pentest Tools                                                                         | ❌ (maybe for multitools|
+| Pentest Tools                                                                         | ❌ (maybe for multitools)|
 
 - ✅ = `Integrated`
 - ❌ = `Not Integrated`
